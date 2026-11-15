@@ -33,9 +33,8 @@ The predictive machine learning model integrates multiple spatial layers extract
 ---
 
 ## 🚀 Getting Started
-1. Open the **`04_Notebooks`** (or scripts) folder from the repository.
-2. Upload the individual notebooks/scripts to **Google Colab** (note: Colab supports both Python and R runtimes).
-3. Authenticate your Google Earth Engine account if running GEE workflows (`ee.Initialize()`).
-4. Execute the scripts sequentially to process environmental covariates, train the Random Forest regression model, and visualize spatial soil pH predictions.
+1. Upload the individual notebook/script to **Google Colab** (note: Colab supports both Python and R runtimes).
+2. Authenticate your Google Earth Engine account if running GEE workflows (`ee.Initialize()`).
+3. Execute the scripts sequentially to process environmental covariates, train the Random Forest regression model, and visualize spatial soil pH predictions.
 
 > *Enjoy the hands-on exercises and spatial soil modeling!*
