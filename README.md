@@ -10,7 +10,7 @@ The predictive machine learning model integrates multiple spatial layers extract
 
 | Covariate Feature | Description / Metric Category |
 | :--- | :--- |
-| **`pH60_100`** | Target soil pH variable (sampled at 60–100 cm depth |
+| **`pH60_100`** | Target soil pH variable (sampled at 60–100 cm depth) |
 | **`Elevation`** | Digital Elevation Model (DEM) height data |
 | **`Slope`** | Terrain steepness and gradient |
 | **`Mid_Slope`** | Mid-slope position metric |
